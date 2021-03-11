@@ -33,3 +33,10 @@ The (code) changes made to the original are the following:
 As [@Xilefian](https://twitter.com/Xilefian) stated, it uses a [dirty trick with the UV map](https://twitter.com/Xilefian/status/1369695626921967622) to select which block are targetted. It is for demo purpose and should **NOT** be reproduced in the future.
 
 As far as I understand, the different files are used to modify the different rendertypes, and the conditions are used to target the desired blocks based on their texture position on the corresponding UV map (that's the dirty trick).
+
+---
+
+More informations about rendertypes and Minecraft shaders, as provided by [@slicedlime](https://twitter.com/slicedlime) in his [*"Technical News in Minecraft Snapshot 21w10a"* video](https://youtu.be/UTZfKR4Kq80):
+* [boq's Render Type list](https://gist.github.com/boq/4514320b590de1fbe84349d23b542b28)
+* [Community's shader resource document](https://docs.google.com/document/d/18AhcnAI55liax72yh70njUomIzezOKshCurfdZPTKwM/)
+* [Minecraft Commands discord](https://discord.gg/QAFXFtZ), which is *"a very good place to look for community development on this stuff"*
