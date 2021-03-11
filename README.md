@@ -1,5 +1,7 @@
 # RainbowsAndBlood-A-Minecraft-shader-for-snapshot-21w10a
 
+![Shader demonstration: Minecraft leaves with a weird moving rainbow effect and Minecraft water becoming blood-red when the player gets closer](shaderDemos.gif)
+
 ## A (demo) resource pack with SHADERS for latest 1.17 snapshot (21w10a) ##
 
 Based on [@Xilefian](https://twitter.com/Xilefian)'s [demo](https://twitter.com/Xilefian/status/1369677620561014784): https://gist.github.com/felixjones/d5bec1ab0c83ee134fa43a142692a09b
